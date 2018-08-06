@@ -1,2 +1,2 @@
 # hello-world
-I am learning to use GitHub very slowly
+Learning to use GitHub
